@@ -1,0 +1,52 @@
+1).In questa porziona ho calcolato il numero totale di film dal file .csv
+
+
+Il numero totale dei film è uguale a: 77
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2).Qui ho calcolato il film con il rating ppiù alto
+
+Il film con il rating più alto è: WALL-E || Il rating è: 89
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ 3).In questa parte di codice ho messo i film in modalità tabellare con lo show() e ho calcolato il numero di film per ciascun genere
+
+
++---------+-----+
+|   Genere|count|
++---------+-----+
+|  Romance|   13|
+|    Drama|   13|
+|    Comdy|    1|
+|  Romence|    1|
+|  Fantasy|    1|
+|Animation|    4|
+|   Comedy|   41|
+|  romance|    1|
+|   Action|    1|
+|   comedy|    1|
++---------+-----+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 4). In questa porzione di codice ho messo i generein ordine alfabetico e ho calcolato il rating medio per ciascun genere
+
++---------+---------------------+
+|Genere   |avg(Audience score %)|
++---------+---------------------+
+|Action   |45.0                 |
+|Animation|70.25                |
+|Comdy    |61.0                 |
+|Comedy   |60.97560975609756    |
+|Drama    |67.23076923076923    |
+|Fantasy  |81.0                 |
+|Romance  |62.76923076923077    |
+|Romence  |84.0                 |
+|comedy   |81.0                 |
+|romance  |84.0                 |
++---------+---------------------+
